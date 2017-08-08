@@ -24,50 +24,6 @@ i {
   height: 300px;
 }
 
-.definitionJS {
-  display: none;
-}
-
-.definitionOP {
-  display: none;
-}
-
-.definitionVA {
-  display: none;
-}
-
-.definitionVN {
-  display: none;
-}
-
-.definitionFU {
-  display: none;
-}
-
-.definitionMT {
-  display: none;
-}
-
-.definitionAR {
-  display: none;
-}
-
-.definitionPR {
-  display: none;
-}
-
-.definitionRE {
-  display: none;
-}
-
-.definitionCM {
-  display: none;
-}
-
-.definitionST {
-  display: none;
-}
-
-.definitionBO {
+.none {
   display: none;
 }
