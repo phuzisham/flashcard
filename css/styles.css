@@ -16,34 +16,6 @@ h3:hover {
   height: 300px;
 }
 
-.definitionJS {
-  display: none;
-}
-
-.definitionOP {
-  display: none;
-}
-
-.definitionVA {
-  display: none;
-}
-
-.definitionVN {
-  display: none;
-}
-
-.definitionFU {
-  display: none;
-}
-
-.definitionMT {
-  display: none;
-}
-
-.definitionAR {
-  display: none;
-}
-
-.definitionPR {
+.definition {
   display: none;
 }
