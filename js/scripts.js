@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  $(".clickable").click(function() {
-    $('.term').hide();
-    $('.definition').show();
-});
+  $('.flashCard').click(function(e) {
+    var kids = $(e.currentTarget).children();
+    kids.toggle(800);
+  });
 });
