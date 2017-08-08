@@ -12,6 +12,14 @@ h3:hover {
   text-decoration: underline;
 }
 
+i {
+  margin-top: 30px;
+}
+
+.color {
+  background-color: #A9A9A9;
+}
+
 .well {
   height: 300px;
 }
@@ -45,5 +53,21 @@ h3:hover {
 }
 
 .definitionPR {
+  display: none;
+}
+
+.definitionRE {
+  display: none;
+}
+
+.definitionCM {
+  display: none;
+}
+
+.definitionST {
+  display: none;
+}
+
+.definitionBO {
   display: none;
 }
