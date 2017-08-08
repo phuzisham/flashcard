@@ -1,32 +1,19 @@
 body {
   text-align: center;
 }
+
 h3 {
   margin: 10px;
-}
-.row {
-  margin: 0;
-}
-
-.center-div {
-  margin: 0 auto;
-  //width: 100%;
-}
-
-.col-sm-3 {
-  background-color: green;
-  height: 300px;
-  width: 20%;
-  margin: 2px;
-}
-
-.clickable {
   cursor: pointer;
   color: #0088cc;
 }
 
-.clickable:hover {
+h3:hover {
   text-decoration: underline;
+}
+
+.well {
+  height: 300px;
 }
 
 .definition {
